@@ -78,7 +78,7 @@ btn_1.pack(side=LEFT,padx=10,pady=10,fill='both',expand='yes')
 
 
 
-
+cal_muliti.overrideredirect(1)
 cal_muliti.title('multiplication_table')
 cal_muliti.geometry('850x850')
 cal_muliti.mainloop()
